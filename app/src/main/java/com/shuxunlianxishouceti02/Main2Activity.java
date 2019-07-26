@@ -33,6 +33,7 @@ public class Main2Activity extends AppCompatActivity {
         title = intent.getStringExtra("title");
         content = intent.getStringExtra("content");
         initView();
+        //svsdhvndj
     }
 
     private void initView() {
